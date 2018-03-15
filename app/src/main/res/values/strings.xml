@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="txt_tbl_title_news1">News</string>
+    <string name="txt_tbl_title_following1">Following</string>
+    <string name="txt_tbl_title_followers1">Followers</string>
+    <string name="txt_tbl_cal_items_news1">35</string>
+    <string name="txt_tbl_cal_items_following1">7</string>
+    <string name="txt_tbl_cal_items_followers1">3</string>
+    <string name="txt_tbl_header_headline1">Primary school in which children receive elementary education.</string>
+    <string name="txt_tbl_header_logo_alt1">Primary school name</string>
+    <string name="txt_tbl_header_profile1_1">Name</string>
+    <string name="txt_tbl_header_profile1_2">Birthday</string>
+    <string name="txt_tbl_header_profile1_3">Country</string>
+    <string name="txt_tabs_title1">Trending Now</string>
+    <string name="txt_tabs_title2">Openning Hours</string>
+    <string name="txt_tabs_title3">Headmaster News</string>
+    <string name="txt_tabs_title4">Score Keeper</string>
+    <string name="txt_tabs_items2_1_1">Osnovna šola Toma Brejca</string>
+    <string name="txt_tabs_items2_1_2">Šutna 39</string>
+    <string name="txt_tabs_items2_1_3">1241 Kamnik</string>
+    <string name="txt_tabs_items2_1_4">01 830 3780</string>
+    <string name="txt_tabs_items2_1_5">070 656 807</string>
+    <string name="txt_tabs_items2_1_6">os-tb.kamnik@guest.arnes.si</string>
+    <string name="txt_tabs_items2_1_7">Monday&#160;&#8211;&#160;Friday&#160;08.20&#160;&#8211;&#160;12.40</string>
+    <string name="txt_tabs_items2_1_8">1.9.2017&#160;&#8211;&#160;22.6.2018</string>
+    <string name="btn_courtcounter_reset1">Reset</string>
+    <string name="intro_courtcounter_teama">Class A</string>
+    <string name="intro_courtcounter_teamb">Class B</string>
+    <string name="btn_score_points1">Free throw</string>
+    <string name="btn_score_points2">+2 Points</string>
+    <string name="btn_score_points3">+3 Points</string>
+    <string name="btn_score_rebounds1">Rebounds</string>
+    <string name="txt_score_points0">0</string>
+    <string name="txt_rebounds_points0">0</string>
+    <string name="txt_tbl_title_points1">Points</string>
+    <string name="txt_tbl_title_rebounds1">Rebounds</string>
+    <string name="txt_tbl_title_assists1">Assists</string>
+    <string name="txt_courtcounter_other1">&#160;</string>
+    <string name="txt_tbl_webicons_title1">Feed</string>
+    <string name="txt_tbl_webicons_title2">Discovery</string>
+    <string name="txt_tbl_webicons_title3">Easy access</string>
+    <string name="txt_tbl_webicons_title4">Add</string>
+    <string name="txt_tbl_webicons_title5">Profile</string>
+</resources>
+
+
